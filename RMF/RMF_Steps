@@ -1,0 +1,15 @@
+These are the steps regarding the NIST Framework
+
+- Prepare : Essential activities to prepare the organization to manage security and privacy risks
+
+- Categorize : Categorize the system and information processed, stored, and transmitted based on an impact analysis
+
+- Select : Select the set of NIST SP 800-53 controls to protect the system based on risk assessment(s)
+
+- Implement : Implement the controls and document how controls are deployed
+
+- Assess : Assess to determine if the controls are in place, operating as intended, and producing the desired results
+
+- Authorize : Senior official makes a risk-based decision to authorize the system (to operate)
+
+- Monitor : Continuously monitor control implementation and risks to the system
