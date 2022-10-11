@@ -1,0 +1,20 @@
+These are the principles regarding the ISO 31000 (2018) for Risk Management.
+
+Effective risk management requires the elements of Figure 2 and can be further explained as follows.
+
+    a) Integrated
+    Risk management is an integral part of all organizational activities.
+    b) Structured and comprehensive
+    A structured and comprehensive approach to risk management contributes to consistent and comparable results.
+    c) Customized
+    The risk management framework and process are customized and proportionate to the organization’s external and internal context related to its objectives.
+    d) Inclusive
+    Appropriate and timely involvement of stakeholders enables their knowledge, views and perceptions to be considered. This results in improved awareness and informed risk management.
+    e) Dynamic
+    Risks can emerge, change or disappear as an organization’s external and internal context changes. Risk management anticipates, detects, acknowledges and responds to those changes and events in an appropriate and timely manner.
+    f) Best available information
+    The inputs to risk management are based on historical and current information, as well as on future expectations. Risk management explicitly takes into account any limitations and uncertainties associated with such information and expectations. Information should be timely, clear and available to relevant stakeholders.
+    g) Human and cultural factors
+    Human behaviour and culture significantly influence all aspects of risk management at each level and stage.
+    h) Continual improvement
+    Risk management is continually improved through learning and experience.
